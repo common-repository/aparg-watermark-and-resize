@@ -1,0 +1,230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Aparg Watermark and Resize\n"
+"POT-Creation-Date: 2016-06-28 09:15+0400\n"
+"PO-Revision-Date: 2016-06-28 09:14+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: aparg-watermark-and-resize.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: aparg-watermark-and-resize.php:59
+msgid "Please make sure to enable your GD library"
+msgstr ""
+
+#: aparg-watermark-and-resize.php:60
+msgid "Failed to proceed"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:10
+msgid "Watermark and Resize"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:35
+msgid "Settings Saved."
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:41
+msgid "Aparg Watermark and Resize Settings"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:44
+msgid "Developed by"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:50
+msgid "Resize Settings"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:56
+msgid "Max Width"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:59 aparg-wtm-resize-settings-page.php:69
+msgid "px"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:61
+msgid "Set max width of picture,</br>Recommended value 1200"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:66
+msgid "Max Height"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:71
+msgid "Set max height of picture </br>Recommended value 1200"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:76
+msgid "Resize on-fly"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:81 aparg-wtm-resize-settings-page.php:156
+msgid "Automatically apply to uploaded images"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:87
+msgid "Watermark Settings "
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:92
+msgid "Position"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:97
+msgid "Top Left"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:98
+msgid "Top Right"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:99
+msgid "Bottom Left"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:100
+msgid "Bottom Right"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:101
+msgid "Center"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:104
+msgid "Set position of watermark "
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:109
+msgid "Size of watermark box"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:114
+msgid "Set size of watermark from picture"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:119
+msgid "Margin of watermark"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:124
+msgid "Set margin of watermark from borders </br>Defult value 1"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:129
+msgid "Logo"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:146
+msgid "Select watermark </br> Accepted type: PNG and JPEG"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:151
+msgid "Watermark on-fly"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:162
+msgid "Export Settings"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:167
+msgid "JPEG Quality"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:172
+msgid ""
+"1 = low quality (smallest files)  </br>100 = best quality (largest files)</"
+"br>Defult value 90"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:177
+msgid "Interlaced"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:182
+msgid "Allow partial load of images"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:188
+msgid "Save Settings"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:192
+msgid "Proceed All"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:193
+msgid "There is active process"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:194
+msgid "Stop Action"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:195
+msgid "Stopping current process"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:199
+msgid ""
+"Sorry something went wrong on server side. Try to increase memory limit in "
+"WordPress config file."
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:205
+msgid "Success."
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:213
+msgid "Choose Action"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:219
+msgid "Resize all images"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:223
+msgid "Add watermark to all"
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:226
+msgid ""
+"Note: Bulk action will be applied to all items in media library with current "
+"settings. We recommend to make backup of your website before start."
+msgstr ""
+
+#: aparg-wtm-resize-settings-page.php:229
+msgid "Ok"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Aparg Watermark and Resize"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Aparg Watermark and Resize is design to automatically resize and add "
+"watermark to images as they are uploaded to WordPress media library. Also "
+"you can do both actions to all existing images."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aparg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://aparg.com/"
+msgstr ""
